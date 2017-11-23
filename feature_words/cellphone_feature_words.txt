@@ -1,0 +1,463 @@
+adapter
+adaptor
+adapters
+AC adapter
+AC adapters
+AC adaptor
+power adapter
+app
+apps
+application
+applications
+program
+programs
+software
+softwares
+s/w
+app store
+calculator
+calendar
+game
+games
+e-mail
+email
+Email application
+Email applications
+emails
+book application
+navigation
+navigate
+clock
+alarm clock
+stopwatch
+document viewer
+MP3 player
+radio
+fm
+fm radio
+mhz
+SMS application
+SMS applications
+Maps
+Google Maps
+address book
+phone number
+phone numbers
+bluetooth
+pim
+GPRS
+GPS
+message
+instant messaging
+messages
+text messaging
+text messages
+text message
+text editing
+mms
+quick guides
+battery
+battery life
+charge
+charged
+charging
+battery cover
+charger
+wall charger
+battery charger
+brand new
+unlocked
+lock
+lock up
+locked
+locked up
+button
+buttons
+power button
+number buttons
+reception
+call
+call quality
+call logs
+calls
+phone call
+incoming calls
+phone answer
+phone answers
+phone calls
+coverage area
+signal
+signal quality
+phone card calling
+dial
+handsfree
+call log
+call logs
+camera
+camera quality
+megapixiel
+megapixiels
+autofocus
+flashlight
+shoot
+zoom
+zoom
+pixel
+pixels
+megapixel
+megapixels
+mega-pixel
+mega-pixels
+xenon flash
+flash light
+flash
+LED
+LED notification light
+notification light
+color
+colors
+colour
+colours
+company
+OEM
+connect
+connecting
+connection
+transmission
+transfer
+connectivity bars
+connectivity bars
+internet connectivity
+direct connect
+coverage
+metal cover
+rubber cover
+screen protector
+cover
+case
+carrier
+back cover
+covers
+customer service
+service center
+customer rep
+at&t customer service
+customer service agents
+customer care
+sprint customer service
+cust support
+customer support
+Verizon
+ATT
+Sprint plan
+t-mobile
+t-mobile reception
+t-mobile service
+tech support
+warranty
+service
+refund
+full refund
+return policy
+repair
+repair center
+repaired
+t-zone
+CSR
+damage
+physical damage
+crack
+scratch
+durability
+durable construction
+sturdy
+fragile
+design
+stylized
+stylized
+construction
+layout
+look
+shape
+looking
+size
+pocket
+build
+build quality
+feels
+dependability
+easy to use
+easy of use
+ergonomics
+multitasking
+multi-task
+OTG
+NFC
+PDA
+freespeak
+eye detector
+eye detectors
+finger scanner
+finger scanners
+versatility
+water proof
+water resistant
+waterproof
+headphone
+headphones
+earphone
+earphones
+headphone jack
+headset
+headset jack
+microphone
+instruction booklet
+instructions
+instruction
+manual
+interface
+user interface
+user-interfaces
+UI
+background
+wallpaper
+themes
+menu
+menu options
+phone menu
+menu option
+menus
+internet
+internet connection
+browser
+web browser
+web
+browsing
+keyboard
+keyboards
+keyboard layout
+Command key
+joystick
+joy stick
+memory
+Mb
+capacity
+Gb
+storage
+space
+rom
+ram
+cards
+sim card
+sim cards
+sd card
+sd cards
+memory card
+SIM-card
+slot
+card slot
+MMC
+MMC card
+MMC memory
+MMC slot
+flash drive
+flash drives
+flash memory
+multimedia
+multimedia functions
+video
+videos
+movies
+video recorder
+video recorders
+video recording
+movie
+music
+network
+3G
+4G
+LTE
+4G LTE
+HSPA+
+GSM
+4G network
+2G
+high speed internet
+load time
+iOS
+Android
+Windows
+OS
+Jelly Bean
+Kit Kat
+KitKat
+Palm
+operating system
+operate
+operation
+operation
+package
+packaging
+image
+image quality
+photo
+picture
+pictures
+picture quality
+photos
+pics
+images
+picture sharing
+price
+pay
+money
+priced
+rebate
+rebates
+$
+buck
+bucks
+cheap
+dollar
+dollars
+expensive
+paid
+tax
+processor
+core
+GHz
+cpu
+quad core
+quad-core
+band
+resolution
+screen resolution
+camera resolution
+display resolution
+HD
+1080p
+720p
+ring
+default ringtone
+ringtone
+ringing tone
+ring tone
+rings
+ringtones
+ringer
+ringers
+ringer volume
+tune
+tone
+notification
+screen
+display
+color screen
+screensaver
+color TFT display
+screens
+LCD
+brightness
+gorilla
+TFT display
+TFT
+color display
+screen size
+backlight
+touchscreen
+touch screen
+visibility
+security
+key
+keys
+key lock
+keypad
+keylock
+setting
+settings
+setup
+font
+fonts
+vibration
+vibrate setting
+language
+shipping
+deliverd
+delivery
+ship
+shipped
+ships
+sound
+sound quality
+audio quality
+sounds
+background noise
+speakerphone
+speaker phone
+speaker
+earpiece
+ear volume
+earpiece volume
+speed
+speeds
+lag
+boot
+boot up
+booting
+bootloader
+freeze
+freezes
+freezes up
+freeze up
+freezing up
+stop working
+stopped working
+shut
+shut down
+shut off
+shuts
+rundown time
+reset
+reboot
+rebooting
+sync
+iSync compaibility
+iSync
+syncing data
+update
+updates
+upgrade
+upgrades
+upgradibility
+patch
+upgrading
+usb
+pc cable
+pc suite
+pc sync
+voice
+voice quality
+voice dialing
+voice recorder
+voice command
+voice recorders
+voice-dialing system
+volume
+volume key
+volume control
+loud phone
+voice commands
+weight
+heavy
+wifi
+quest wireless
+Wi-Fi
+wireless
+WLAN
+WAP access
+wireless internet
+wireless network
+APN
+APN setting
+APN settings
+<none>

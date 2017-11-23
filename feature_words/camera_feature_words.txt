@@ -1,0 +1,288 @@
+accessory shoe
+package
+packaging
+case
+casing
+covering
+housing
+metal case
+metal cover
+adapter
+adaptor
+adapters
+AC adapter
+AC adapters
+AC adaptor
+A/C adapter
+power adapter
+floppy adaptor
+Floppy Disk Adapter
+looks
+design
+best-built
+size
+size
+bulky
+battery
+batteries
+battery life
+NiMH batteries
+NiMH battery
+rechargeable batteries
+rechargeable battery
+charger
+charge
+charged
+charging
+battery charger
+battery recharger
+recharge time
+power
+brand
+company
+button
+buttons
+power button
+customer service
+service center
+cust support
+customer support
+tech support
+warranty
+refund
+full refund
+return policy
+repair
+repaired
+repair center
+notification
+damage
+physical damage
+crack
+scratch
+SLR
+wifi
+Wi-Fi
+wireless
+WLAN
+water proof
+water resistant
+waterproof
+OTG
+functionality
+expandability
+ease of use
+easy to use
+red eye removal
+red eye reduction
+usability
+instruction
+instruction booklet
+instructions
+book
+manual
+interface
+lens
+lenses
+zoom lenses
+zoom lense
+zoom lens
+lens cap
+LED light
+notification light
+LED notification light
+card
+cards
+sd card
+sd cards
+flash card
+flash memory card
+smartmedia card
+disk
+disks
+memory
+memory expansion
+memory card
+memory cards
+ram
+rom
+space
+slot
+card slots
+reader
+card reader
+floppy disk
+floppy disc
+menu
+image management menu
+setting
+settings
+setup
+brightness
+brightness control
+auto mode
+automatic modes
+automatic white balance
+white balance
+macro mode
+manual
+manual mode
+manual modes
+panorama mode
+panorama modes
+panorama setting
+ISO
+ISO setting
+ISO settings
+dynamic range
+exposure time
+exposure
+over-exposure
+over exposure
+auto-focus
+manual focus mode
+autofocus
+zoom
+zooms
+zoom range
+optical zoom
+zoom settings
+language
+languages
+control
+controls
+picture
+pictures
+picture quality
+pics
+photo
+photos
+image
+image quality
+images
+picture detail
+photograph
+photographs
+photography
+pic
+color
+colors
+colour
+colours
+color rendering
+color and light
+color balance
+auto color balance
+resolution
+resolution setting
+photo resolution
+1080p
+resolutions
+HD
+pixel
+pixels
+megapixiel
+megapixiels
+megapixel
+picture resolution
+720p
+red eye
+low-light performance
+price
+money
+buck
+bucks
+dollar
+dollars
+cheap
+expensive
+tax
+processing
+processing time
+screen
+TFT
+TFT screen
+touchscreen
+touch screen
+display
+LCD
+LCD display
+LED screen
+sensor
+ccd
+shipping
+deliverd
+delivery
+ship
+shipped
+ships
+shoot
+shot
+shots
+snapshots
+shoots
+point and shoot
+point-and-shoot
+shutter
+shutter delay
+shutter speed
+focus
+software
+bundled software
+OS
+update
+updates
+upgrade
+upgrades
+upgradibility
+patch
+upgrading
+speed
+delay
+recycle speed
+stopped woring
+boot
+booting
+boot up
+bootloader
+reboot
+rebooting
+shut down
+shut off
+shuts
+freeze
+freezes
+freezing up
+stopped working
+stops working
+power on
+power off
+reset
+start-up
+connect
+connecting
+connection
+cable
+download
+USB
+USB card reader
+USB port
+Downloading
+drivers
+uploads
+video
+videos
+film
+movie
+movies
+vcr
+video mode
+video capture card
+movie mode
+viewfinder
+viewfinders
+weight
+weighs
+heavy
+light weight
+<none>

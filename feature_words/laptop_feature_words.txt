@@ -1,0 +1,410 @@
+printer
+modem
+carrier
+bag
+instruction
+instructions
+quick guides
+instruction booklet
+adapter
+adaptor
+adapters
+AC adapter
+AC adapters
+AC adaptor
+power adapter
+app
+apps
+application
+applications
+software
+softwares
+s/w
+power mobile
+game
+games
+gaming
+card games
+video games
+office application
+office applications
+Microsoft Office
+WP office
+MS office
+adobe flash
+gps
+e-mail
+email
+e-mail
+calendar
+pim
+radio
+bluetooth
+backup files
+sync
+syncing data
+battery
+battery life
+charging
+charge
+charged
+power source
+battery power
+A/C power
+power cord
+power supply
+power supplies
+power cord connection
+charger
+wall charger
+battery charger
+button
+buttons
+Buttons
+power button
+reset button
+shuts off
+camera resolution
+zoom
+zooms
+shoot
+shot
+shot
+shots
+camera quality
+autofocus
+customer service
+service center
+csr
+customer care
+customer rep
+customer service agents
+service center
+cust support
+customer support
+return policy
+technical support
+email response
+tech support
+IT support
+warranty
+repair
+repaired
+repair center
+fix
+damage
+physical damage
+scratch
+crack
+durability
+sturdy
+design
+layout
+stylized
+shape
+construction
+build quality
+design quality
+size
+screen size
+screen
+display
+LCD
+screen resolution
+screens
+screensaver
+blurry
+megapixiel
+megapixiels
+graphics card
+screen quality
+color quality
+LCD screen
+graphics card
+LCD monitor
+LCD display
+display colors
+pixel
+pixels
+color
+colors
+colour
+colours
+monitor
+monitors
+resolution
+display resolution
+1080p
+touchscreen
+touch screen
+LED
+LCD backlight
+LCD backlights
+screen backlight
+water proof
+water resistant
+versatility
+OTG
+dependability
+port
+ports
+FireWire ports
+IR port
+mouse
+mouse button
+mouse buttons
+keyboard
+key board
+keys
+type
+Caps lock
+Fn button
+Easy Access buttons
+EasyAccess buttons
+usb keyboard
+keyboard layout
+Command key
+cable
+cables
+keyboard backlight
+keyboard backlighting
+backlight keyboard
+Fn lock
+Num Lock
+interface
+user interface
+user-interfaces
+UI
+background
+wallpaper
+themes
+menu
+menu option
+menu options
+menus
+start menu
+internet
+web
+web browsing
+internet connectivity
+browser
+browsing
+web browser
+memory
+memory card
+space
+storage card
+storage card
+storage cards
+storage
+micro sd
+micro sd
+PCMCIA card
+PCMCIA cards
+PCMCIA port
+Memory Stick drive
+video memory
+hard drive
+HD
+hard disk
+solid-state drive
+SSD
+RPM
+graphics memory
+card
+cards
+card readers
+card reader
+PC Card
+chips
+chip
+slot
+rom
+ram
+GPU
+flash memory
+flash drive
+flash drives
+flash card
+flash cards
+floppy drive
+disk drive
+Solid State Drive
+multimedia
+multimedia functions
+movie
+movies
+music
+MP3 player
+DVD movies
+multimedia function
+multimedia application
+multimedia applications
+video application
+video applications
+video
+videos
+video recorder
+video recorders
+video recording
+CD
+CD/DVD
+DVD
+CD drives
+cd/dvd rom
+CD control
+CD controls
+DVD drive
+cd drive
+DVD drive
+DVD ROM
+Flash Player
+usb
+usb2.0
+usb3.0
+USB Adapter
+USB connectors
+USB ports
+connection
+connecting
+network connection
+connectivity bars
+ethernet port
+Ethernet connection
+network
+DSL
+network card
+operating system
+OS
+Windows
+Linux
+Mac OS
+Unix
+ubuntu
+Windows 8
+Win 7
+Win 8
+Win7
+Win8
+OS X
+operation
+image
+image quality
+photo
+photos
+pics
+picture
+picture quality
+images
+picture sharing
+pictures
+picture quality
+price
+money
+priced
+rebate
+rebates
+expensive
+tax
+processor
+Dual-Core
+cpu
+AMD
+core
+i3
+i5
+i7
+Quad-core
+single core
+dual-processor
+dual core
+dual-core
+AMD processor
+fan
+program
+programs
+security
+anti-virus
+virus
+fingerprint
+password lock
+security lock
+setting
+settings
+language
+languages
+font
+fonts
+power mode
+sleep mode
+power saving mode
+shipping
+delivery
+shipped
+sound
+sound quality
+sound card
+audio quality
+audio jack
+earphone
+earphones
+headphone
+headphones
+headphone jack
+headset
+headset jack
+earphone
+earphones
+earpiece
+bluetooth headset
+speed
+speeds
+lag
+load time
+booting
+bootloader
+boot up
+shut
+shut down
+stopped working
+rundown time
+freeze
+freezes
+freeze up
+freezes up
+freezing up
+rebooting
+reset
+lock up
+locked up
+update
+updates
+upgrade
+upgrades
+upgradibility
+patch
+upgrading
+volume
+ear volume
+voice
+voice quality
+voice recorders
+volume control
+volume key
+volume control
+volume controls
+external volume control
+volume buttons
+volume button
+weight
+heavy
+light weight
+wifi
+Wi-Fi
+wireless
+AirPort card
+wireless cards
+wireless network
+wireless access
+NFC
+<none>
